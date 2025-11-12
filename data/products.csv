@@ -1,0 +1,10 @@
+name,category,price,specifications,rating,reviews
+iPhone 15 Pro,Smartphone,999,"Display: 6.1-inch, Storage: 128GB, Camera: 48MP, Battery: 3274mAh, Processor: A17 Pro",4.5,1200
+Samsung Galaxy S24,Smartphone,799,"Display: 6.2-inch, Storage: 256GB, Camera: 50MP, Battery: 4000mAh, Processor: Snapdragon 8 Gen 3",4.3,950
+Google Pixel 8,Smartphone,699,"Display: 6.2-inch, Storage: 128GB, Camera: 50MP, Battery: 4575mAh, Processor: Tensor G3",4.4,800
+Sony WH-1000XM5,Headphones,399,"Type: Over-ear, Battery: 30 hours, Noise Cancelling: Yes, Wireless: Bluetooth 5.2",4.7,1500
+Bose QuietComfort 45,Headphones,329,"Type: Over-ear, Battery: 24 hours, Noise Cancelling: Yes, Wireless: Bluetooth 5.1",4.6,1200
+MacBook Pro 14-inch,Laptop,1999,"Display: 14.2-inch, Storage: 512GB SSD, RAM: 8GB, Processor: M3, Graphics: 10-core",4.8,800
+Dell XPS 13,Laptop,999,"Display: 13.4-inch, Storage: 256GB SSD, RAM: 8GB, Processor: Intel Core i5, Graphics: Intel Iris Xe",4.4,600
+iPad Air,Tablet,599,"Display: 10.9-inch, Storage: 64GB, Processor: M1, Camera: 12MP, Battery: 28.6 Wh",4.5,700
+Samsung Galaxy Tab S9,Tablet,749,"Display: 11-inch, Storage: 128GB, Processor: Snapdragon 8 Gen 2, Camera: 13MP, Battery: 8400mAh",4.3,450
