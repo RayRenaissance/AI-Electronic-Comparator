@@ -40,7 +40,7 @@ An intelligent web application that compares electronics products (like smartpho
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your_username>/AI_Product_Comparator.git
+   git clone https://github.com/RayRenaissance/AI_Product_Comparator.git
    cd AI_Product_Comparator
 
 
@@ -87,3 +87,4 @@ The application provides:
 
 - 🧠 **Explainable AI Insights:**  
   Show which specs/features contributed most to the AI’s recommendation (feature attribution visualization).
+
