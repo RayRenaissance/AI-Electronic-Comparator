@@ -175,6 +175,8 @@ To use a different path, modify this constant in `app.py`.
      Show which specs/features contributed most to the AI’s recommendation (feature attribution visualization).
    
    ## 📸 Application Preview
+
+   ### [Live Demo](https://ai-e-comparator.streamlit.app/)
    
    ### Product Comparison Interface
    ![Product Comparison](Screenshots/Screenshot_Demo1.png)
@@ -183,3 +185,4 @@ To use a different path, modify this constant in `app.py`.
    ![AI Recommendations](Screenshots/Screenshot_Demo2.png)
    
    ---
+
