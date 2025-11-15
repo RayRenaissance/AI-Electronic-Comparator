@@ -156,12 +156,12 @@ def display_product_card(product_data, color_scheme):
     """Display product information in a styled card"""
     with st.container():
         st.markdown(f"""
-        <div style="border: 2px solid {color_scheme}; border-radius: 10px; padding: 20px; margin: 10px 0; background-color: #f9f9f9;">
+        <div style="border: 2px solid {color_scheme}; border-radius: 10px; padding: 20px; margin: 10px 0; background-color: #1e1e1e;">
             <h3 style="color: {color_scheme}; margin-top: 0;">{product_data['name']}</h3>
-            <p><strong>Category:</strong> {product_data['category']}</p>
-            <p><strong>Price:</strong> ${product_data['price']}</p>
-            <p><strong>Rating:</strong> ⭐ {product_data['rating']}/5 ({product_data['reviews']} reviews)</p>
-            <p><strong>Specifications:</strong><br>{str(product_data['specifications']).replace(',', '<br>')}</p>
+            <p style="color: #ffffff;"><strong>Category:</strong> {product_data['category']}</p>
+            <p style="color: #ffffff;"><strong>Price:</strong> ${product_data['price']}</p>
+            <p style="color: #ffffff;"><strong>Rating:</strong> ⭐ {product_data['rating']}/5 ({product_data['reviews']} reviews)</p>
+            <p style="color: #ffffff;"><strong>Specifications:</strong><br>{str(product_data['specifications']).replace(',', '<br>')}</p>
         </div>
         """, unsafe_allow_html=True)
 
@@ -335,3 +335,4 @@ def main():
 # Run the application
 if __name__ == "__main__":
     main()
+
